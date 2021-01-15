@@ -1,5 +1,10 @@
 # Arrhythmia_Multi class classification
 
+Team : 
+Sethuraman T V- IIT Madras
+Vidya G, VIT Chennai (https://github.com/Vidya1899/Arrhythmia_classification#readme)
+
+
 Arrhythmia is considered a life-threatening disease causing serious health issues in patients, when left untreated. An early diagnosis of arrhythmias would be helpful in saving lives. This study is conducted to classify patients into one of the sixteen subclasses, among which one class represents absence of disease and the other fifteen classes represent electrocardiogram records of various subtypes of arrhythmias. The research is carried out on the dataset taken from the University of California at Irvine Machine Learning Data Repository. 
 ![alt text](https://github.com/Vidya1899/Arrhythmia_classification/blob/master/Highlevel%20Architectural%20dig.jpg?raw=true) 
 
