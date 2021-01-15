@@ -1,4 +1,4 @@
-# Arrhythmia_Multi class classification
+# Arrhythmia_Multi class classification Research
 
 Team : 
 Sethuraman T V- IIT Madras
